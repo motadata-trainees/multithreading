@@ -1,0 +1,9 @@
+Problem:
+ Develop a java project in which given ip address needs to be pinged after their given time using multithreading concepts.
+
+ Solution:
+  I have created five classes:
+    1> BootManager - The main class in which every class is called and threads are created.
+    2> GlobalConfiguration - This class contains all the data structures that is going to be used.
+    3> Scheduler - Thread which is going to be executed(run) after every 10 seconds.
+    4> CollectorService - Thread which takes the ip address from user and perform ping operation.
