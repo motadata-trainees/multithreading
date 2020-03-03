@@ -1,1 +1,2 @@
-
+Implementing Producer and Consumer Problem using Blocking Queue where there is only one producer and multiple consumer.
+Studying the behavior of Threads.
